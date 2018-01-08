@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37373" started-at="2018-01-05T02:39:26Z" finished-at="2018-01-05T02:40:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37373" started-at="2018-01-05T02:39:26Z" finished-at="2018-01-05T02:40:03Z">
+      <class name="demo.EventCase">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:demo.EventCase@3e6fa38a]" name="beforeTest" is-config="true" duration-ms="8541" started-at="2018-01-05T10:39:26Z" finished-at="2018-01-05T10:39:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="wgz_zjiean()[pri:0, instance:demo.EventCase@3e6fa38a]" name="wgz_zjiean" duration-ms="28769" started-at="2018-01-05T10:39:34Z" finished-at="2018-01-05T10:40:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wgz_zjiean -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:demo.EventCase@3e6fa38a]" name="afterTest" is-config="true" duration-ms="51" started-at="2018-01-05T10:40:03Z" finished-at="2018-01-05T10:40:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- demo.EventCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
